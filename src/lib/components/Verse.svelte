@@ -7,8 +7,7 @@
 				shalt open thine hand wide unto thy brother, to thy poor, and to thy needy, in thy land.
 			</p>
 			<br />
-			<span class="font-bold text-end"> Deuteronomy 15:11</span>
-			<span class="font-bold"> King James Version </span>
+			<span class="font-bold text-end"> Deuteronomy 15:11 KJV</span>
 		</div>
 		<p class="text-8xl text-white font-primary font-bold">"</p>
 	</h2>
