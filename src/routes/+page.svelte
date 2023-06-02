@@ -33,7 +33,7 @@
 	</div>
 </section>
 
-<section class="bg-secondary">
+<section class="bg-secondary pb-10">
 	<h2 class="text-6xl text-primary font-bold font-primary text-center p-20">Our Mission</h2>
 
 	<div class="flex flex-col gap-20">
