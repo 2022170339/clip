@@ -5,18 +5,18 @@
 </script>
 
 <footer
-	class="flex mt-auto w-full h-28 px-44 py-7 items-end font-primary bg-primary text-secondary justify-between"
+	class="flex mt-auto w-full h-28 px-44 py-7 items-end font-primary bg-primary text-white font-semibold justify-between"
 >
 	<div class="flex items-end gap-2">
 		<a href="/" aria-label="homepage">
 			<Logo />
 		</a>
-		<copyright class="font-normal text-sm mb-1 font-primary">
+		<p class="font-semibold text-lg mb-1 font-primary text-white">
 			Copyright © {year} Clip Org
-		</copyright>
+		</p>
 	</div>
 
-	<div class="flex flex-row items-end gap-2 font-primary text-secondary">
+	<div class="flex flex-row items-end gap-2 font-primary text-white text-lg">
 		<p>Follow us on</p>
 		<ul class="flex flex-row gap-2">
 			<li class="flex h-10 w-10">
