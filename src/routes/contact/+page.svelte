@@ -2,6 +2,11 @@
 	import Logo from '$lib/components/Logo.svelte';
 </script>
 
+<svelte:head>
+	<title>CLIPORG | Contact</title>
+	<meta name="description" content="Contact details related to donations and inquiries" />
+</svelte:head>
+
 <div class="flex w-full h-30 px-44 bg-primary py-10 font-primary font-bold">
 	<a href="/" aria-label="back to homepage">
 		<Logo />
@@ -34,14 +39,20 @@
 			<p class="font-primary text-primary text-xl font-medium">
 				If you need more information you can contact us at:
 			</p>
-			<a class="font-primary text-primary text-xl font-medium" href="tel:0933-856-9944"
-				>0933-856-9944</a
+			<a
+				class="font-primary text-primary text-xl font-medium"
+				href="tel:0933-856-9944"
+				aria-label="first contact number of cliporg">0933-856-9944</a
 			>
-			<a class="font-primary text-primary text-xl font-medium" href="tel:0976-225-5937"
-				>0976-225-5937</a
+			<a
+				class="font-primary text-primary text-xl font-medium"
+				href="tel:0976-225-5937"
+				aria-label="second contact number of cliporg">0976-225-5937</a
 			>
-			<a class="font-primary text-primary text-xl font-medium" href="tel:0923-500-0318"
-				>0923-500-0318</a
+			<a
+				class="font-primary text-primary text-xl font-medium"
+				href="tel:0923-500-0318"
+				aria-label="third contact number of cliporg">0923-500-0318</a
 			>
 		</div>
 	</div>
