@@ -8,8 +8,8 @@ const config = {
         primary: ["Poppins", "sans-serif"]
       },
       colors: {
-        primary: '#CB7353',
-        secondary: '#FAF8EF'
+        primary: '#000',
+        secondary: '#FFF'
       }
     }
   },

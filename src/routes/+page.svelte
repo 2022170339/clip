@@ -47,7 +47,7 @@
 			</div>
 			<div class="flex flex-col w-full text-center mt-8 sm:mt-0 gap-4 lg:w-[400px]">
 				<h3 class="text-primary text-4xl font-bold font-primary">We Preach the Word of God</h3>
-				<p class="text-primary text-2xl md:text-3xl font-semibold font-primary">
+				<p class="text-primary text-2xl md:text-3xl font-medium font-primary">
 					Sharing the Word of God with indigenous people can be a way to promote spiritual guidance,
 					support, and understanding within their communities.
 				</p>
@@ -57,7 +57,7 @@
 		<div class="flex flex-col-reverse lg:flex-row px-20 md:px-44 justify-center gap-5">
 			<div class="flex flex-col w-full lg:w-[500px] mt-8 sm:mt-0 text-center gap-4">
 				<h3 class="text-primary text-4xl font-bold font-primary">We Share The Salvation</h3>
-				<p class="text-primary text-2xl md:text-3xl font-semibold font-primary">
+				<p class="text-primary text-2xl md:text-3xl font-medium font-primary">
 					Sharing the salvation is the act of spreading the message of hope, forgiveness, and
 					redemption and help them understand their inherent value, their need for spiritual
 					healing, and the opportunity to find peace and purpose in their lives.
@@ -84,7 +84,7 @@
 				<h3 class="text-primary text-4xl font-bold font-primary">
 					We gather all the children to have fellowship
 				</h3>
-				<p class="text-primary text-2xl font-semibold font-primary">
+				<p class="text-primary text-2xl font-medium font-primary">
 					Gathering children for fellowship is a wonderful way to nurture their spiritual growth,
 					provide a sense of community, and create a supportive environment where they can learn and
 					connect with others who share similar beliefs.
@@ -97,7 +97,7 @@
 				<h3 class="text-primary text-4xl mt-8 sm:mt-0 font-bold font-primary">
 					We also teach the chilren about the word of God
 				</h3>
-				<p class="text-primary text-2xl lg:text-3xl font-semibold font-primary">
+				<p class="text-primary text-2xl lg:text-3xl font-medium font-primary">
 					Teaching children about the word of God is a valuable aspect of their spiritual
 					development.
 				</p>
@@ -127,7 +127,7 @@
 			</div>
 			<div class="flex flex-col w-full lg:w-[500px] mt-8 sm:mt-0 text-center gap-4">
 				<h3 class="text-primary text-4xl font-bold font-primary">Feeding Programs</h3>
-				<p class="text-primary text-2xl sm:text-3xl font-semibold font-primary">
+				<p class="text-primary text-2xl sm:text-3xl font-medium font-primary">
 					Feeding programs are initiatives that provide meals and nutritional support to
 					individuals, particularly those in need, such as children, families, or vulnerable
 					populations. These programs aim to address food insecurity, malnutrition, and hunger by
@@ -139,7 +139,7 @@
 		<div class="flex flex-col-reverse lg:flex-row px-20 lg:px-44 justify-center gap-5">
 			<div class="flex flex-col w-full lg:w-[500px] text-center gap-4">
 				<h3 class="text-primary text-4xl mt-8 sm:mt-0 font-bold font-primary">Clothing Donation</h3>
-				<p class="text-primary text-2xl md:text-3xl font-semibold font-primary">
+				<p class="text-primary text-2xl md:text-3xl font-medium font-primary">
 					Clothing donation is the act of giving away clothing items, shoes, and accessories to
 					individuals or organizations in need. It is a charitable practice aimed at providing
 					clothing to those who may not have the means to afford new or adequate attire.
