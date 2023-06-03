@@ -34,7 +34,9 @@
 </section>
 
 <section class="bg-secondary pb-10">
-	<h2 class="text-6xl text-primary font-bold font-primary text-center p-20">Our Mission</h2>
+	<h2 class="text-2xl lg:text-6xl text-primary font-bold font-primary text-center p-20">
+		Our Mission
+	</h2>
 
 	<div class="flex flex-col gap-20">
 		<div class="flex flex-col lg:flex-row px-20 md:px-44 justify-center gap-5">
@@ -157,23 +159,23 @@
 </section>
 
 <section class="bg-primary">
-	<div class="flex px-20 lg:px-80 py-20 flex-col gap-10 justify-center">
-		<h2 class="text-4xl text-secondary font-primary font-bold text-center">
+	<div class="flex px-10 md:px-20 lg:px-40 xl:px-80 py-20 flex-col gap-10 justify-center">
+		<h2 class="text-lg md:text-xl lg:text-4xl text-secondary font-primary font-bold text-center">
 			Are you ready to make a meaningful difference in the lives of indigenous people? Join our
 			charity work focused on caring for and loving indigenous communities.
 		</h2>
 		<a
 			href="/contact"
-			class="text-2xl font-primary text-primary bg-secondary font-bold p-5 w-[400px] mx-auto text-center hover:brightness-90"
+			class="text-lg lg:text-2xl font-primary text-primary bg-secondary font-bold p-2 lg:p-5 w-full lg:w-[400px] mx-auto text-center hover:brightness-90"
 			>Get Involve Now!</a
 		>
 	</div>
 </section>
 
-<!-- svelte-ignore a11y-media-has-caption -->
 <section class="bg-secondary">
 	<div class="flex justify-center">
 		<video controls>
+			<track kind="captions" />
 			<source
 				src="https://ik.imagekit.io/x7llsy0ve/IMG_9115.mp4?updatedAt=1685713671741"
 				type="video/mp4"

@@ -12,7 +12,7 @@
 	inject({ mode: dev ? 'development' : 'production' });
 </script>
 
-<div class="flex flex-col w-full min-h-screen h-full">
+<main class="break-words">
 	<slot />
-	<Footer />
-</div>
+</main>
+<Footer />
