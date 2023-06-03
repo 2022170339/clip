@@ -7,14 +7,14 @@
 	<meta name="description" content="Contact details related to donations and inquiries" />
 </svelte:head>
 
-<div class="flex w-full h-30 px-44 bg-primary py-10 font-primary font-bold">
+<div class="flex w-full h-30 px-20 lg:px-44 bg-primary py-10 font-primary font-bold">
 	<a href="/" aria-label="back to homepage">
 		<Logo />
 	</a>
 </div>
 
-<div class="flex px-44 bg-secondary min-h-screen py-20 justify-center gap-20">
-	<div class="flex flex-col bg-secondary w-[600px] h-full gap-20 text-center">
+<div class="flex flex-col lg:flex-row px-20 lg:px-44 bg-secondary min-h-screen py-20 justify-center gap-20">
+	<div class="flex flex-col bg-secondary w-full lg:w-[600px] h-full gap-20 text-center">
 		<h2 class="font-primary text-4xl font-bold text-primary">You can send your kindess here!</h2>
 		<div class="flex flex-col shadow-lg rounded-2xl p-10">
 			<img
@@ -56,7 +56,7 @@
 			>
 		</div>
 	</div>
-	<div class="flex flex-col bg-secondary w-[600px] h-full gap-10">
+	<div class="flex flex-col bg-secondary w-full text-center lg:text-start lg:w-[600px] h-full gap-10">
 		<h2 class="font-primary text-4xl font-bold text-primary">Thank you!</h2>
 		<p class="font-primary text-primary text-2xl font-medium">
 			Grateful Appreciation for Your Generous Donation! Your support means the world to us and the
