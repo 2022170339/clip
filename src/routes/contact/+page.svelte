@@ -3,7 +3,7 @@
 </script>
 
 <svelte:head>
-	<title>CLIPORG | Contact</title>
+	<title>CLIP | Contact</title>
 	<meta name="description" content="Contact details related to donations and inquiries" />
 </svelte:head>
 

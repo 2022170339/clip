@@ -5,7 +5,7 @@
 </script>
 
 <svelte:head>
-	<title>CLIPORG | Home</title>
+	<title>CLIP | Home</title>
 	<meta name="description" content="Care and Love for the Indigenous People Organization" />
 </svelte:head>
 
