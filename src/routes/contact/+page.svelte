@@ -76,7 +76,7 @@
 			<br />
 			With deepest gratitude,
 			<br />
-			<span class="font-bold"> CLIPORG TEAM </span>
+			<span class="font-bold"> CLIP TEAM </span>
 		</p>
 	</div>
 </div>

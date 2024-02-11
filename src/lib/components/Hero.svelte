@@ -2,7 +2,7 @@
 	<img
 		class="object-cover w-full h-[900px] object-[50%,70%] -z-10"
 		src="https://ik.imagekit.io/x7llsy0ve/tr:w-1400,f-auto/IMG_2818.HEIC"
-		alt="Childron of the indigenous people together with one of our tribal missionaries"
+		alt="Children of the indigenous people together with one of our tribal missionaries"
 	/>
 </div>
 

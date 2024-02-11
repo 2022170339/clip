@@ -1,5 +1,4 @@
 <script>
-	import { Facebook, Twitter, Instagram } from 'lucide-svelte';
 	import Logo from '$lib/components/Logo.svelte';
 	let year = new Date().getFullYear();
 </script>
@@ -12,7 +11,7 @@
 			<Logo />
 		</a>
 		<p class="font-normal text-md mb-1 font-primary text-white">
-			Copyright © {year} Clip Org
+			Copyright © {year} Clip
 		</p>
 	</div>
 </footer>
